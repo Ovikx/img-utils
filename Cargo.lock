@@ -584,6 +584,7 @@ name = "vectorize"
 version = "0.1.0"
 dependencies = [
  "num",
+ "rand",
 ]
 
 [[package]]
