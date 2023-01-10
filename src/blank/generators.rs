@@ -1,6 +1,5 @@
 use image;
 use rand;
-use vectorize::Matrix;
 
 /// Returns an ImageBuffer containing non-interpolated noise
 /// 
